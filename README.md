@@ -2,7 +2,7 @@
 <h2>👋 Weizhe H.</h2>
 <p><i>Cross‑major self‑learner · Backend‑oriented · Long‑term practitioner</i></p>
 
-> 交互式双语个人主页|Interactive bilingual personal page 👉 <https://huangweizhe76-blip.github.io/huangweizhe76-blip/>
+> 交互式双语个人主页 | Interactive bilingual personal page 👉 <https://huangweizhe76-blip.github.io/huangweizhe76-blip/>
 </div>
 
 <details open>
@@ -10,7 +10,7 @@
 
 ## ⚙️ 技术栈
 `C / C++` | STL | EasyX | Git | VS2022 | Obsidian | Docker(入门)
-刷题平台：Luogu, AtCoder, UVa‑Online Judge | 雅思目标：6.0+
+刷题平台：洛谷，力扣 | 雅思目标：6.0+
 
 ## 📁 仓库列表
 - **`learn‑cpp`**【核心主仓库｜最高优先级】C/C++练习、算法刷题、EasyX图形项目
@@ -30,7 +30,7 @@ E‑mail：`3565214102@qq.com`
 
 ## ⚙️ Tech Stack
 `C / C++` | STL | EasyX | Git | VS2022 | Obsidian | Docker(beginner)
-OJ: Luogu, AtCoder, UVa‑Online Judge | IELTS Target:6.0+
+OJ: Luogu, Leetcode | IELTS Target:6.0+
 
 ## 📁 Repositories
 - **`learn‑cpp`** 【Core Repository｜Highest Priority】C/C++ practice, algorithm problems & EasyX graphical projects
@@ -44,10 +44,6 @@ OJ: Luogu, AtCoder, UVa‑Online Judge | IELTS Target:6.0+
 E‑mail: `3565214102@qq.com`
 
 </details>
+仅用于技术探讨、项目合作与学术交流，闲聊信息将不予回复。
 Only for technical discussion, project cooperation and academic communication. Casual messages will not be replied.
 
-</details>
-
----
-> 💡 Note: GitHub Markdown does **not** support JavaScript button switching.
-> For click‑to‑switch language experience, please visit the Pages link above.
