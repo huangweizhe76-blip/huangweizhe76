@@ -1,5 +1,5 @@
 <div align="center">
-<h2>👋 huangweizhe76‑blip</h2>
+<h2>👋 Weizhe H.</h2>
 <p><i>Cross‑major self‑learner · Backend‑oriented · Long‑term practitioner</i></p>
 
 > Interactive bilingual personal page 👉 <https://huangweizhe76-blip.github.io/huangweizhe76-blip/>
