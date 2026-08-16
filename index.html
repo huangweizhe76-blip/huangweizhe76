@@ -12,12 +12,12 @@
       font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans‑serif;
     }
     body {
-      max-width: 900px;
+      max-width: 920px;
       margin: 3rem auto;
       padding: 0 24px;
       color:#222;
       background:#ffffff;
-      line-height:1.7;
+      line-height:1.75;
     }
     .lang‑btn‑wrap {
       text-align:right;
@@ -38,16 +38,16 @@
       color:#fff;
     }
     section {
-      margin-bottom:2.2rem;
+      margin-bottom:2.4rem;
     }
     h2{
-      margin:1rem 0 0.6rem;
+      margin:1.1rem 0 0.7rem;
       font-size:1.3rem;
       border-bottom:1px solid #e5e7eb;
-      padding-bottom:0.3rem;
+      padding-bottom:0.35rem;
     }
     ul{
-      padding-left:1.6rem;
+      padding-left:1.7rem;
     }
     .hidden {
       display:none;
@@ -55,17 +55,24 @@
     table{
       width:100%;
       border-collapse:collapse;
-      margin:12px 0;
+      margin:14px 0;
     }
     th,td{
       border:1px solid #ddd;
-      padding:8px 12px;
+      padding:9px 13px;
       text-align:left;
     }
+    pre {
+      background-color:#f6f8fa;
+      padding:14px 16px;
+      border-radius:6px;
+      overflow-x:auto;
+      margin:12px 0;
+    }
     footer{
-      margin-top:3rem;
+      margin-top:3.2rem;
       color:#666;
-      font-size:0.9rem;
+      font-size:0.92rem;
     }
   </style>
 </head>
@@ -77,14 +84,14 @@
 
   <!-- 中文内容 -->
   <div id="contentCN">
-    <h1>👋 你好，我是 WeiZhe H.</h1>
+    <h1>👋 你好，我是 黄伟哲</h1>
     <p><em>跨专业自学者 · 后端方向 · 长期主义实践者</em></p>
 
     <section>
       <h2>🧩 关于我</h2>
       <p>本科就读烹饪相关专业，自主搭建计算机知识体系，主攻 C/C++后端开发与算法基础。</p>
-      <p>本页面作为公开成长档案，完整留存练习代码、算法题解、原型项目与试错记录，不作刻意筛选。使用 Obsidian 维护结构化知识库，整合理论笔记与工程实践。</p>
-      <p>课业之余推进英语备考、项目沉淀与技术输出；编程副业用于分担助学贷款与生活开支。</p>
+      <p>GitHub作为公开成长档案，完整留存练习代码、算法题解、原型项目与试错记录，不作刻意筛选。使用 Obsidian 维护结构化知识库，整合理论笔记与工程实践。</p>
+      <p>课业之余推进英语备考、项目沉淀；尝试编程副业分担助学贷款与生活开支。</p>
       <p>阶段性目标考取国内顶尖院校计算机专硕，申请CSC公派赴美科研交流；长期期望远程自由开发，兼顾长途骑行与游历。保持精简社交边界，以数年维度执行规划，拒绝短期速成与无意义内耗。</p>
     </section>
 
@@ -93,7 +100,7 @@
       <ul>
         <li>编程语言：C, C++</li>
         <li>库：STL、EasyX图形库</li>
-        <li>工具链：Git、VS2022、Obsidian、Markdown</li>
+        <li>工具链：Git、VS2022、Obsidian、Markdown、Docker（入门）</li>
         <li>刷题平台：洛谷、力扣</li>
         <li>外语目标：雅思6.0+</li>
       </ul>
@@ -102,25 +109,32 @@
     <section>
       <h2>📁 仓库规划</h2>
       <table>
-        <tr><th>仓库名</th><th>说明</th></tr>
-        <tr><td>cpp‑roadmap</td><td>C/C++系统学习范例，指针、结构体、STL实操代码</td></tr>
-        <tr><td>algorithm‑daily</td><td>日常刷题存档，题解、注释思路、错题复盘</td></tr>
-        <tr><td>mini‑demos</td><td>EasyX图形程序、轻量控制台原型</td></tr>
-        <tr><td>obsidian‑knowledge‑base</td><td>笔记模板、知识链路、自学路线文档</td></tr>
-        <tr><td>learning‑memorandum</td><td>学业规划、备考材料、项目草案</td></tr>
+        <tr><th>仓库名称</th><th>仓库说明</th></tr>
+        <tr><td><code>learn‑cpp</code></td><td>【核心主仓库｜最高优先级】C/C++语法练习、算法刷题、EasyX图形项目，分层目录管理。每个子目录附带独立README，规范commit提交。</td></tr>
+        <tr><td><code>personal‑projects</code></td><td>独立实战项目仓库。自主开发轻量化工具、控制台程序、文本处理脚本，非课程作业，项目采用MIT开源协议。</td></tr>
+        <tr><td><code>obsidian‑vault‑snippets</code></td><td>Obsidian编程知识库。存放笔记模板、Vault配置、学习路线文档，构建个人知识体系。</td></tr>
+        <tr><td><code>my‑study‑road</code></td><td>成长规划仓库，仅Markdown文档。记录转专业路线、雅思备考、CSC公派申请、考研规划、年度学习清单。</td></tr>
       </table>
+
+<pre>learn‑cpp/
+├── basic/        // C语言结构体、指针、基础语法练习
+├── luogu/        // 洛谷算法刷题，每题独立文件夹+注释
+├── easyx‑proj/   // EasyX小游戏完整源码
+└── notes.md      // 报错、踩坑、调试思路记录
+</pre>
+      <p><strong>仓库规范：</strong>每个子文件夹配套独立README，写明运行环境、实现功能、已知bug；commit 使用 fix/feat/docs 分类，拒绝模糊提交信息。</p>
     </section>
 
     <section>
       <h2>🎯 目标</h2>
-      <p><strong>本科阶段</strong>：夯实计算机底层基础，稳定算法训练，产出可演示项目；达成雅思目标，搭建开源作品集；通过副业积累工程经验。</p>
+      <p><strong>本科阶段</strong>：夯实计算机底层基础，稳定算法训练，产出可演示项目；达成雅思目标，搭建开源作品集；积累工程实践经验。</p>
       <p><strong>硕士阶段</strong>：考取985计算机专硕，深耕后端；筹备CSC公派，争取海外科研经历。</p>
       <p><strong>长期愿景</strong>：沉淀后端工程能力，转向远程工作，在职业可持续前提下长途游历。</p>
     </section>
 
     <section>
       <h2>📫 联系方式</h2>
-      <p>E‑mail:3565214102@qq.com</p>
+      <p>E‑mail: <code>3565214102@qq.com</code></p>
       <p>仅限技术交流、项目合作、学业事务沟通，闲聊不予回复。</p>
     </section>
 
@@ -131,14 +145,14 @@
 
   <!-- English Content -->
   <div id="contentEN" class="hidden">
-    <h1>👋 Hi, I'm  WeiZhe H.</h1>
+    <h1>👋 Hi, I'm Weizhe Huang</h1>
     <p><em>Cross‑major self‑learner · Backend‑oriented · Long‑term practitioner</em></p>
 
     <section>
       <h2>🧩 About Me</h2>
       <p>An undergraduate majoring in Culinary Arts. I build computer‑science knowledge independently, focusing on C/C++ backend development and algorithm fundamentals.</p>
-      <p>This page serves as an open‑access growth archive, preserving practice codes, algorithm solutions, prototypes and trial‑and‑error records without artificial filtering. Obsidian is used to maintain structured knowledge base for theoretical notes and engineering practice.</p>
-      <p>Outside coursework, I advance language proficiency, portfolio building and technical sharing. Freelance programming helps cover student loans and living expenses.</p>
+      <p>This GitHub serves as an open‑access growth archive, preserving practice codes, algorithm solutions, prototypes and trial‑and‑error records without artificial filtering. Obsidian is used to maintain structured knowledge base for theoretical notes and engineering practice.</p>
+      <p>Outside coursework, I advance language proficiency and portfolio building. Freelance programming helps cover student loans and living expenses.</p>
       <p>My mid‑term goal is to pursue a CS master’s degree in top‑tier Chinese university and apply for CSC research exchange in US. Long‑term expectation is remote‑first freelance development combined with long‑distance cycling & travel. I keep narrow social boundaries, pursue multi‑year planning and reject quick‑fix paths and meaningless internal friction.</p>
     </section>
 
@@ -147,8 +161,8 @@
       <ul>
         <li>Languages: C, C++</li>
         <li>Libraries: STL, EasyX Graphics Library</li>
-        <li>Toolchain: Git, VS2022, Obsidian, Markdown</li>
-        <li>OJ Platforms: Luogu,Leetcode</li>
+        <li>Toolchain: Git, VS2022, Obsidian, Markdown, Docker (Beginner)</li>
+        <li>OJ Platforms: Luogu, Leetcode</li>
         <li>Language Target: IELTS 6.0+</li>
       </ul>
     </section>
@@ -157,24 +171,31 @@
       <h2>📁 Repository Layout</h2>
       <table>
         <tr><th>Repo Name</th><th>Description</th></tr>
-        <tr><td>cpp‑roadmap</td><td>Systematic C/C++ samples for pointer, struct and STL</td></tr>
-        <tr><td>algorithm‑daily</td><td>Daily algorithm archives: annotated solutions & error reviews</td></tr>
-        <tr><td>mini‑demos</td><td>EasyX graphical programs & lightweight console prototypes</td></tr>
-        <tr><td>obsidian‑knowledge‑base</td><td>Note templates, knowledge links and self‑study roadmaps</td></tr>
-        <tr><td>learning‑memorandum</td><td>Academic plans, exam‑prep materials and project drafts</td></tr>
+        <tr><td><code>learn‑cpp</code></td><td>【Core Repository｜Highest Priority】C/C++ exercises, algorithm solutions, EasyX graphical demos. Each subdirectory has independent README, standardized git commit rules.</td></tr>
+        <tr><td><code>personal‑projects</code></td><td>Independent practical repository for self‑developed lightweight tools and console scripts. MIT open‑source license applied.</td></tr>
+        <tr><td><code>obsidian‑vault‑snippets</code></td><td>Obsidian knowledge base, including note templates, vault configuration and self‑study roadmaps.</td></tr>
+        <tr><td><code>my‑study‑road</code></td><td>Markdown‑only planning repo: cross‑major roadmap, IELTS notes, CSC application documents and milestone tracking.</td></tr>
       </table>
+
+<pre>learn‑cpp/
+├── basic/        // C syntax: struct, pointer & fundamental practice
+├── luogu/        // Luogu algorithm solutions with annotation
+├── easyx‑proj/   // Complete EasyX game source code
+└── notes.md      // Bug logs, debugging & troubleshooting records
+</pre>
+      <p><strong>Repository Rules:</strong> Each subfolder ships with standalone README for environment, features & known bugs. Git commits follow fix/feat/docs convention, vague commit messages are forbidden.</p>
     </section>
 
     <section>
       <h2>🎯 Goals</h2>
-      <p><strong>Undergraduate</strong>: Consolidate computer fundamentals, maintain algorithm practice, build demonstrable projects, hit IELTS target, construct open‑source portfolio and gain engineering experience via freelance work.</p>
+      <p><strong>Undergraduate</strong>: Consolidate computer fundamentals, maintain algorithm practice, build demonstrable projects, hit IELTS target and accumulate practical engineering experience.</p>
       <p><strong>Postgraduate</strong>: Get admitted to top‑tier university CS master program focusing on backend; prepare for CSC joint‑training for overseas research.</p>
       <p><strong>Long‑term Vision</strong>: Build solid backend engineering capability, shift to remote‑first work style and travel extensively with sustainable career.</p>
     </section>
 
     <section>
       <h2>📫 Contact</h2>
-      <p>E‑mail: 3565214102@qq.com</p>
+      <p>E‑mail: <code>3565214102@qq.com</code></p>
       <p>For technical discussion, project cooperation and academic matters only. Casual messages may not be responded to.</p>
     </section>
 
