@@ -45,6 +45,4 @@ E‑mail: `3565214102@qq.com`
 
 </details>
 
-仅用于技术探讨、项目合作与学术交流，闲聊信息将不予回复。
-Only for technical discussion, project cooperation and academic communication. Casual messages will not be replied.
 
