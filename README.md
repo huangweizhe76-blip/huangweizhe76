@@ -2,7 +2,7 @@
 <h2>👋 Weizhe H.</h2>
 <p><i>Cross‑major self‑learner · Backend‑oriented · Long‑term practitioner</i></p>
 
-> 交互式双语个人主页 👉 <https://huangweizhe76-blip.github.io/huangweizhe76-blip/>
+> 交互式双语个人主页|Interactive bilingual personal page 👉 <https://huangweizhe76-blip.github.io/huangweizhe76-blip/>
 </div>
 
 <details open>
