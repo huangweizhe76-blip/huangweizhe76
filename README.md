@@ -14,7 +14,7 @@
 
 ## 📁 仓库列表
 - **`learn‑cpp`**【核心主仓库｜最高优先级】C/C++练习、算法刷题、EasyX图形项目
-- **`personal‑projects`** 独立实战轻量化项目，MIT协议开源
+- **`project‑knowledgebase`** 独立实战轻量化项目，MIT协议开源
 - **`obsidian‑vault‑snippets`** Obsidian编程知识库模板与配置
 - **`my‑study‑road`** 转专业、备考、CSC公派规划文档
 
@@ -34,7 +34,7 @@ OJ: Luogu, Leetcode | IELTS Target:6.0+
 
 ## 📁 Repositories
 - **`learn‑cpp`** 【Core Repository｜Highest Priority】C/C++ practice, algorithm problems & EasyX graphical projects
-- **`personal‑projects`** Independent lightweight practical projects, MIT‑licensed open‑source
+- **`project‑knowledgebase`** Independent lightweight practical projects, MIT‑licensed open‑source
 - **`obsidian‑vault‑snippets`** Obsidian programming knowledge‑base templates & configurations
 - **`my‑study‑road`** Documents for major transfer, exam preparation and CSC program application
 
