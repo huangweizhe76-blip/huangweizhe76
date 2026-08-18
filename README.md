@@ -28,7 +28,7 @@ IELTS：6.0+
 | Repository | Description｜项目说明 |
 |:---|:---|
 | **learn‑cpp** | <br>C/C++ practice, algorithm exercises, EasyX graphic demos.<br>C/C++ 语法练习、算法刷题、EasyX 图形小项目 |
-| **project‑knowledgebase** | Light‑weight personal knowledge‑base, MIT License.<br>轻量化个人知识沉淀知识库，MIT 开源协议 |
+| **project‑knowledgebase** | Personal & team collaborative project source code archive.<br>个人项目与团队协作项目源码归档 |
 | **learn‑java‑backend** | Java SE & backend self‑study practical demos.<br>Java SE 与后端全套自学实践代码 |
 
 ---
