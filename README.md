@@ -1,42 +1,50 @@
-<div align="center">
-<h2>👋 Hi，I am Weizhe H.</h2>
-<p><i>Cross‑major self‑learner · Backend‑oriented · Long‑term practitioner</i></p>
+# 👋 Hello, I'm Weizhe H.
 
-</div>
+> **Non‑CS Major | Cross‑major Self‑Learner** — Backend & Algorithm
+> **非计算机科班 | 跨专业自学** — 深耕后端开发与算法
 
-<details open>
-<summary>🇨🇳 中文</summary>
+> *Per aspera ad astra*
+> **愿此行，终抵群星**
 
-## ⚙️ 技术栈
-`C / C++` | JAVA | STL | EasyX | Git | VS2022 | Obsidian | Docker(入门)
-刷题平台：洛谷，力扣 | 雅思目标：6.0+
+---
 
-## 📁 仓库列表
-- **`learn‑cpp`**【核心主仓库｜最高优先级】C/C++练习、算法刷题、EasyX图形项目
-- **`project‑knowledgebase`** 独立实战轻量化项目，MIT协议开源
-- **`learn‑java‑backend`**  Java SE & 后端自学实践 
+## 🛠 Tech Stack｜技术栈
+**Languages ｜编程语言**
+`C/C++` · `Java`
 
-> GitHub原生README不支持JavaScript交互，访问上方Pages链接体验按钮切换中英文。
+**Tools & Skills｜工具 & 能力**
+`STL` · `Git` · `Docker(Basic)` · `Obsidian` · `GitHub`
 
-## 📫 联系方式
-E‑mail：`3565214102@qq.com`
+**OJ Platform｜刷题平台**
+洛谷 · LeetCode（力扣）
 
-</details>
+**Language Target｜语言目标**
+IELTS：6.0+
 
-<details>
-<summary>🇬🇧 English</summary>
+---
 
-## ⚙️ Tech Stack
-`C / C++` | JAVA | STL | EasyX | Git | VS2022 | Obsidian | Docker(beginner)
-OJ: Luogu, Leetcode | IELTS Target:6.0+
+## 📚 Featured Repositories｜精选仓库
 
-## 📁 Repositories
-- **`learn‑cpp`** 【Core Repository｜Highest Priority】C/C++ practice, algorithm problems & EasyX graphical projects
-- **`project‑knowledgebase`** Independent lightweight practical projects, MIT‑licensed open‑source
-- **`learn‑java‑backend`**  Java SE & backend self‑study demos
-> Native GitHub README does not support JavaScript interaction. Visit the Pages link above for click‑to‑switch bilingual experience.
+| Repository | Description｜项目说明 |
+|---|---|
+| **learn‑cpp** | <br>C/C++ practice, algorithm exercises, EasyX graphic demos.<br>C/C++语法练习、算法刷题、EasyX图形小项目 |
+| **project‑knowledgebase** | Light‑weight personal knowledge‑base, MIT License.<br>轻量化个人知识沉淀知识库，MIT开源协议 |
+| **learn‑java‑backend** | Java SE & backend self‑study practical demos.<br>Java SE 与后端全套自学实践代码 |
 
-## 📫 Contact
-E‑mail: `3565214102@qq.com`
+---
 
-</details>
+## 📝 About Me｜关于我
+> I keep steady daily coding practice. Repositories document hands‑on code and real‑world trial‑and‑error. All projects grow incrementally alongside my self‑study journey.
+
+> 保持持续的代码训练，仓库完整记录实操代码与踩坑经验；所有项目跟随自学之路逐步迭代成长。
+
+---
+
+## 📫 Contact｜联系我
+- Email：`3565214102@qq.com`
+
+---
+
+> 💡 Note｜备注
+GitHub native README does not support dynamic language switch.
+GitHub 原生 README 不支持动态双语切换。
