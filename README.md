@@ -9,16 +9,16 @@
 ---
 
 ## 🛠 Tech Stack｜技术栈
-**Languages ｜编程语言**
+**Languages｜编程语言**
 `C/C++` · `Java`
 
-**Tools & Skills｜工具 & 能力**
-`STL` · `Git` · `Docker(Basic)` · `Obsidian` · `GitHub`
+**Tools｜工具**
+`STL` · `Git`· `GitHub` · `VScode` · `IDEA` · `Obsidian`
 
 **OJ Platform｜刷题平台**
 洛谷 · LeetCode（力扣）
 
-**Language Target｜语言目标**
+**Language Goal｜语言目标**
 IELTS：6.0+
 
 ---
@@ -26,17 +26,17 @@ IELTS：6.0+
 ## 📚 Featured Repositories｜精选仓库
 
 | Repository | Description｜项目说明 |
-|---|---|
-| **learn‑cpp** | <br>C/C++ practice, algorithm exercises, EasyX graphic demos.<br>C/C++语法练习、算法刷题、EasyX图形小项目 |
-| **project‑knowledgebase** | Light‑weight personal knowledge‑base, MIT License.<br>轻量化个人知识沉淀知识库，MIT开源协议 |
+|:---|:---|
+| **learn‑cpp** | <br>C/C++ practice, algorithm exercises, EasyX graphic demos.<br>C/C++ 语法练习、算法刷题、EasyX 图形小项目 |
+| **project‑knowledgebase** | Light‑weight personal knowledge‑base, MIT License.<br>轻量化个人知识沉淀知识库，MIT 开源协议 |
 | **learn‑java‑backend** | Java SE & backend self‑study practical demos.<br>Java SE 与后端全套自学实践代码 |
 
 ---
 
 ## 📝 About Me｜关于我
-> I keep steady daily coding practice. Repositories document hands‑on code and real‑world trial‑and‑error. All projects grow incrementally alongside my self‑study journey.
+> I maintain steady daily coding practice. Repositories record real hands‑on code and trial‑and‑error experience. Every project is built incrementally along my self‑study path.
 
-> 保持持续的代码训练，仓库完整记录实操代码与踩坑经验；所有项目跟随自学之路逐步迭代成长。
+> 坚持稳定的代码训练，仓库记录真实实操代码与踩坑经历，所有项目跟随自学历程逐步迭代构建。
 
 ---
 
@@ -46,5 +46,5 @@ IELTS：6.0+
 ---
 
 > 💡 Note｜备注
-GitHub native README does not support dynamic language switch.
-GitHub 原生 README 不支持动态双语切换。
+> GitHub native README does not support dynamic language switch.
+> GitHub 原生 README 不支持双语动态切换。
